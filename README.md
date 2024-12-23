@@ -1,1 +1,1 @@
-"# Word-guessing" 
+"# Word-guessing" Game for guessing words (hangman).
